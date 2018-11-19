@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4AF7F326-D92E-B3EB-5D99-267C2F681C6B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiyamasuTestRunner/Runtime/SlackIntegration.cs">
+    <Files>
+      <File FileName="Assets/MiyamasuTestRunner/Runtime/Miyamasu2UnityTestConverter.cs" Line="13" Column="18" />
+      <File FileName="Assets/MiyamasuTestRunner/Runtime/MiyamasuTestEnumGenerator.cs" Line="10" Column="29" />
+      <File FileName="Assets/MiyamasuTestRunner/Runtime/MiyamasuTestIgniter.cs" Line="10" Column="23" />
+      <File FileName="Assets/MiyamasuTestRunner/Runtime/SlackIntegration.cs" Line="119" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
